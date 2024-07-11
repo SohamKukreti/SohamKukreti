@@ -1,8 +1,5 @@
 # Hey, I'm Soham 👋
-<p align = "center">
-<img width = 400px src = "https://files.oaiusercontent.com/file-yOPxrwCVf94xjkBbxWw6jmzM?se=2024-06-22T08%3A55%3A53Z&sp=r&sv=2023-11-03&sr=b&rscc=max-age%3D31536000%2C%20immutable&rscd=attachment%3B%20filename%3Dd29ed751-5654-4023-a6c4-a8b3f0000391.webp&sig=tw4CRifFlD7jWQRaezb9vtWULsDjvaLT2IgL2fz8tC8%3D">
-</p>
-
+I am a third year student at Jaypee Institute of Information Technology, Noida.
 ## I am Currently Learning
 - Django
 - Machine Learning
