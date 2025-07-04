@@ -1,9 +1,5 @@
 # Hey, I'm Soham 👋
 I am a third year student at Jaypee Institute of Information Technology, Noida.
-## I am Currently Learning
-- Django
-- Machine Learning
-
 
 ### Languages and tools I use frequently:
 
