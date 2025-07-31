@@ -1,5 +1,5 @@
 # Hey, I'm Soham 👋
-I am a third year student at Jaypee Institute of Information Technology, Noida.
+I am a fourth year student at Jaypee Institute of Information Technology, Noida.
 
 ### Languages and tools I use frequently:
 
