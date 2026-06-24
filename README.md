@@ -1,5 +1,5 @@
 # Hey, I'm Soham 👋
-I am a fourth year student at Jaypee Institute of Information Technology, Noida.
+I am currently an engineer at Crawl4AI.
 
 ### Languages and tools I use frequently:
 
